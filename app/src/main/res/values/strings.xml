@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WeatherState</string>
+    <string name="temperature" translatable="false">
+        %1.0f\u00B0
+    </string>
+</resources>
